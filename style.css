@@ -1,0 +1,191 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: 
+}
+
+h1 {
+  font-style: regular;
+  color: black;
+  text-align: center;
+}
+
+.yoyo {
+  padding-top: 70px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.yoyoshape{
+  height: 250px;
+  padding-top: 70px;
+}
+
+/* IMPERIAL */
+.square {
+  width: 50px;
+  height: 100px;
+  background: black;
+  position: relative;
+  top: 10px;
+  left: 400px;
+}
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid black;
+  position: relative;
+  left: 480px;
+  top: -60px;
+}
+.triangle-up2 {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid black;
+  position: relative;
+  left: 520px;
+  top: -110px;
+}
+.square1 {
+  width: 10px;
+  height: 100px;
+  background: black;
+  position: relative;
+  top: -160px;
+  left: 580px;
+}
+.triangle-right {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid black;
+	border-bottom: 25px solid transparent;
+  position: relative;
+  top: -300px;
+  left: 580px;  
+}
+.triangle-right1 {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid black;
+	border-bottom: 25px solid transparent;
+  position: relative;
+  top: -320px;
+  left: 640px; 
+}
+.triangle-right2 {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid black;
+	border-bottom: 25px solid transparent;
+  position: relative;
+  top: -320px;
+  left: 640px; 
+}
+.triangle-right3 {
+	width: 0px;
+	height: 0px;
+	border-top: 25px solid transparent;
+	border-left: 50px solid black;
+	border-bottom: 25px solid transparent;
+  position: relative;
+  top: -395px;
+  left: 710px; 
+}
+.square3 {
+  width: 50px;
+  height: 100px;
+  background: black;
+  position: relative;
+  top: -485px;
+  left: 770px;
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid black;
+  position: relative;
+  left: 840px;
+  top: -550px;
+}
+.square4 {
+  width: 10px;
+  height: 100px;
+  background: black;
+  position: relative;
+  top: -635px;
+  left: 910px;
+}
+.pink {
+  display: flex;
+  justify-content: center;
+  }
+.pinkletters {
+  display: flex;
+  justify-content: center;
+  color: pink;
+}
+.reciept {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  }
+.recieptletters {
+  display: flex;
+  justify-content: center; 
+}
+.alife {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  height: 400px;
+  }
+
+.alifeletters {
+  display: flex;
+  justify-content: center;  
+}
+.madmax {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  height: 400px;
+  }
+.madmaxletters {
+  display: flex;
+  justify-content: center;  
+}
+.versace {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+   
+  }
+.versaceletters {
+  display: flex;
+  justify-content: center;  
+}
+.sweettarts {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  height: 400px;
+   
+  }
+.sweettartsletters {
+  display: flex;
+  justify-content: center;  
+}
